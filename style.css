@@ -1,3 +1,7 @@
+:root {
+  font-size: 62.5%;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -10,9 +14,12 @@ ul {
 
 body {
   background: #ece9fd;
-  padding: 60px 23px 66px;
+  padding: 6rem 2.3rem 6.6rem;
+  font-size: 1.6rem;
 }
 
 h1 {
   font-family: 'Epilogue', sans-serif;
+  font-size: 4rem;
+  line-height: 4.8rem;
 }
